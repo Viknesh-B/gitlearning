@@ -1,0 +1,8 @@
+hi Team
+<<<<<<< HEAD
+this is Smooth Merge Happening !! 
+conflict merging on master 
+=======
+this is Smooth Merge Happening !!  
+Conflict Merge on Feature Branch
+>>>>>>> feature
